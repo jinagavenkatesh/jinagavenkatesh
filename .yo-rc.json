@@ -1,0 +1,16 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "version": "1.14.0",
+    "libraryName": "exelixis-extend-portal",
+    "libraryId": "eb2b0460-d32c-4a8b-9ffc-94c12e541e8f",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "exelixis-extend-portal",
+    "solutionShortDescription": "exelixis-extend-portal description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}

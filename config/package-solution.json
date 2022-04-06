@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "exelixis-extend-portal",
+    "id": "eb2b0460-d32c-4a8b-9ffc-94c12e541e8f",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.14.0"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "exelixis-extend-portal description"
+      },
+      "longDescription": {
+        "default": "exelixis-extend-portal description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "exelixis-extend-portal Feature",
+        "description": "The feature that activates elements of the exelixis-extend-portal solution.",
+        "id": "228aaf92-d27a-44f6-a2e4-ce74e674b4f5",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/exelixis-extend-portal.sppkg"
+  }
+}
